@@ -15,6 +15,38 @@
 - The data management lifecycle involves collecting data from sources, cleaning/transforming data, integrating datasets, and visualising insights using tools like SQL, Power BI, and Tableau
 - Combining internal data with external open data, administrative data, research data, and third-party sources enriches insights for better decision-making
 
+## Open Standards
+### Government Departments:
+
+- Open Document Format (ODF) for office documents
+- PDF/A for archival documents
+- GML (Geography Markup Language) for geographic data
+- NIEM (National Information Exchange Model) for information sharing
+- XBRL (eXtensible Business Reporting Language) for financial reporting
+
+### The NHS:
+
+- HL7 (Health Level 7) for electronic health records and data exchange
+- DICOM (Digital Imaging and Communications in Medicine) for medical imaging
+- SNOMED CT (Systematised Nomenclature of Medicine -- Clinical Terms) for clinical terminology
+- ICD (International Classification of Diseases) for coding diseases and health conditions
+
+### Banks, Financial, and Professional Services:
+
+- ISO 20022 for electronic data interchange in finance
+- FIX (Financial Information eXchange) protocol for real-time electronic exchange of securities transactions
+- XBRL (eXtensible Business Reporting Language) for financial reporting
+- ACORD (Association for Cooperative Operations Research and Development) standards for insurance industry
+
+### IT, Retail, Sales, Education Providers, etc.:
+
+- TCP/IP for network communications
+- HTTP for web communications
+- XML for data exchange
+- Unicode for character encoding
+- OpenID/OAuth for authentication and authorization
+- IMS Global Standards for educational technology and digital learning
+
 ## Self-Research
 
 
