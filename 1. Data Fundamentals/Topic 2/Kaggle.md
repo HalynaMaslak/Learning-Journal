@@ -35,3 +35,13 @@ MD5 is a cryptographic hash function algorithm that takes the message as input o
 - Compare the contents of the column 'Over18' and 'OverTime', what data quality issue can you identify? - The column 'Over18' contains 'Y' values while 'OverTime' contains 'Yes' or 'No'. This inconsistency can lead to confusion and human errors while analysing the results.
 - What are some possible issues with the data quality of 'MonthlyIncome' and 'Monthly Rate'? - It is not clear what the two fields mean and how they differ.
 - How would you validate the 'EmployeeNumber' column and what needs paying special attention to? - This column contains numbers from 1 to 2068, which means the employee number is not standartised and can contain between one and four digits. It makes it more difficult to validate. Even though the numbers seem to be consecutive, some of them are missing.
+
+**K4**: Frameworks for data quality, covering dimensions such as accuracy, completeness, consistency, timeliness, and accessibility.
+**K5**: The inherent risks of data such as incomplete data, ethical data sources and how to ensure data quality.
+**K11**: Data and information security standards, ethical practices, policies and procedures relevant to data management activities such as data lineage and metadata management.
+**K16**: Principles of data, including open and public data, administrative data, and research data including the value of external data sources that can be used to enrich internal data. Examples of how business use direct data acquisition to support or augment business operations.
+**K23**: How to undertake analysis and root cause investigation.
+**S6**: Systematically clean, validate, and describe data at all stages of extract, transform, load (ETL).
+**S26**: Identify data quality metrics and track them to ensure the quality, accuracy and reliability of the data product.
+**S27**: Selects and apply sustainable solutions to contribute to net zero and environmental strategies across the various stages of product and service delivery.
+**B4**: Takes personal responsibility towards net zero and prioritises environmental sustainability outcomes in how they carry out the duties of their role.
