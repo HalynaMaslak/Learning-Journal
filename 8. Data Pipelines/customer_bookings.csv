@@ -1,0 +1,7 @@
+Customer ID,Full Name,Email,Phone,Country,Sign-up Date,Booking ID,Hotel Name,Check-in Date,Check-out Date,Total Amount
+101,john DOE,john.doe@email.com,(555) 123-4567,United States,2023/01/15,201,Hotel Blue,2023-06-01,2023-06-05,450.0
+102,JANE smith,jane.smith@,(555) 987-6543,Unted Kingdom,15-02-2023,202,The Royal,2023-07-10,2023-07-12,300.0
+103,Alice Johnson,alice.j@example.com,(555) 321-6789,Frnace,2023-03-01,203,Seaside Inn,2023-08-15,2023-08-18,500.0
+101,john DOE,john.doe@email.com,(555) 123-4567,United States,2023/01/15,204,Hotel Blue,2023-06-01,2023-06-05,450.0
+104,CHARLIE Brown,,(555) 000-1111,USA,"March 5, 2023",205,Mountain Lodge,2023-09-05,2023-09-08,620.0
+105,BOB WHITE,bob.white@domain,,United Kingdom,2023.04.10,206,The Royal,2023-10-12,2023-10-14,330.0
